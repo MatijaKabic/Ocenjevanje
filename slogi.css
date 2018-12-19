@@ -1,0 +1,27 @@
+#GlavniOkvir{
+	background-color: none;
+	margin: 0 auto 0 auto;
+	width: px;
+	min-height: px;
+}
+#Telo{
+	display: flex;
+	min-height: 300px;
+	min-width: 1000px;
+}
+#LeviRob{
+	background-color: blue;
+	width: 200px;
+	min-height: 300px;
+}
+#Center{
+	background-color:gray;
+	width: 800px;
+	min-height: 300px;
+}
+#SpodnjiRob{
+	background-color:red;
+	width:;
+	min-height:;
+}
+
